@@ -32,12 +32,14 @@
   {
     "name": "Status: Good First Issue",
     "color": "569B16",
-    "description": "An issue ready for a new contributor."
+    "description": "An issue ready for a new contributor.",
+    "aliases": ["good first issue"]
   },
   {
     "name": "Status: Help Wanted",
     "color": "569B16",
-    "description": "An issue that needs help from a contributor."
+    "description": "An issue that needs help from a contributor.",
+    "aliases": ["help wanted"]
   },
   {
     "name": "Status: In Progress",
@@ -62,7 +64,8 @@
   {
     "name": "Triage: Duplicate",
     "color": "733367",
-    "description": "Indicates an issue is a duplicate of other open issue."
+    "description": "Indicates an issue is a duplicate of other open issue.",
+    "aliases": ["duplicate"]
   },
   {
     "name": "Triage: Feature Request",
@@ -87,7 +90,8 @@
   {
     "name": "Type: Bug",
     "color": "105B63",
-    "description": "Does not work as expected."
+    "description": "Does not work as expected.",
+    "aliases": ["bug"]
   },
   {
     "name": "Type: CI",
@@ -97,12 +101,14 @@
   {
     "name": "Type: Documentation",
     "color": "105B63",
-    "description": "Improvements or additions to documentation."
+    "description": "Improvements or additions to documentation.",
+    "aliases": ["documentation", "docs"]
   },
   {
     "name": "Type: Enhancement",
     "color": "105B63",
-    "description": "Adds new functionality."
+    "description": "Adds new functionality.",
+    "aliases": ["enhancement"]
   },
   {
     "name": "Type: Regression",
