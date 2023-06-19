@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Priority: Critical",
+    "color": "A9C74E",
+    "description": ""
+  },
+  {
+    "name": "Priority: High",
+    "color": "A9C74E",
+    "description": ""
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "A9C74E",
+    "description": ""
+  },
+  {
+    "name": "Priority: Low",
+    "color": "A9C74E",
+    "description": ""
+  },
+  {
+    "name": "Status: Backlog",
+    "color": "569B16",
+    "description": "An issue that yet to in backlog."
+  },
+  {
+    "name": "Status: Blocked",
+    "color": "569B16",
+    "description": "Progress on the issue is blocked."
+  },
+  {
+    "name": "Status: Good First Issue",
+    "color": "569B16",
+    "description": "An issue ready for a new contributor."
+  },
+  {
+    "name": "Status: Help Wanted",
+    "color": "569B16",
+    "description": "An issue that needs help from a contributor."
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "569B16",
+    "description": "An issue that is being worked on."
+  },
+  {
+    "name": "Status: Untriaged",
+    "color": "569B16",
+    "description": "An issue that has yet to be triaged."
+  },
+  {
+    "name": "Triage: Confirmed",
+    "color": "733367",
+    "description": "Indicates and issue has been confirmed as described."
+  },
+  {
+    "name": "Triage: Declined",
+    "color": "733367",
+    "description": "Indicates an issue that can not or will not be resolved."
+  },
+  {
+    "name": "Triage: Duplicate",
+    "color": "733367",
+    "description": "Indicates an issue is a duplicate of other open issue."
+  },
+  {
+    "name": "Triage: Feature Request",
+    "color": "733367",
+    "description": "Indicates an issue requesting new functionality."
+  },
+  {
+    "name": "Triage: Needs Information",
+    "color": "733367",
+    "description": "Indicates an issue needs more information in order to work on it."
+  },
+  {
+    "name": "Triage: Not Reproducible",
+    "color": "733367",
+    "description": "Indicates an issue can not be reproduced as described."
+  },
+  {
+    "name": "Type: Breaking Change",
+    "color": "105B63",
+    "description": "Includes breaking changes"
+  },
+  {
+    "name": "Type: Bug",
+    "color": "105B63",
+    "description": "Does not work as expected."
+  },
+  {
+    "name": "Type: CI",
+    "color": "105B63",
+    "description": "Changes to CI configuration files and scripts."
+  },
+  {
+    "name": "Type: Documentation",
+    "color": "105B63",
+    "description": "Improvements or additions to documentation."
+  },
+  {
+    "name": "Type: Enhancement",
+    "color": "105B63",
+    "description": "Adds new functionality."
+  },
+  {
+    "name": "Type: Regression",
+    "color": "105B63",
+    "description": "It used to work, now it doesn't."
+  },
+  {
+    "name": "Type: Security",
+    "color": "105B63",
+    "description": "Vulnerability disclosure or fixing security issue."
+  }
+]
